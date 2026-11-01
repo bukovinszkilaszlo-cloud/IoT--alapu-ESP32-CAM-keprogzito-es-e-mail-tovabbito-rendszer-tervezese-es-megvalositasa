@@ -1,0 +1,1 @@
+# IoT--alapu-ESP32-CAM-keprogzito-es-e-mail-tovabbito-rendszer-tervezese-es-megvalositasa
